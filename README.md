@@ -10,7 +10,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=ujwalapentela&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hey There
+    Hey There! I'm Ujwala Pentela
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -27,8 +27,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Exploring various web frameworks and libraries.
 
 - :zap: In my free time, I write motivational quotes and read books.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-UjwalaPentela-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ujwalapentela)
 
 - ---
 
@@ -53,3 +51,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ujwalapentela&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujwalapentela&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### Reach Out to Me on:
+[![Linkedin Badge](https://img.shields.io/badge/-UjwalaPentela-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ujwalapentela)
